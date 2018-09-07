@@ -9,9 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activities.DetalheItemActivity" />
+        <activity android:name="br.com.veronezitecnologia.fragmentsmultiplastelas.views.activities.DetalheItemActivity" />
 
-        <activity android:name=".activities.ListaItensActivity">
+        <activity android:name="br.com.veronezitecnologia.fragmentsmultiplastelas.views.activities.ListaItensActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,9 +1,9 @@
-package br.com.veronezitecnologia.fragmentsmultiplastelas.activities
+package br.com.veronezitecnologia.fragmentsmultiplastelas.views.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import br.com.veronezitecnologia.fragmentsmultiplastelas.R
-import br.com.veronezitecnologia.fragmentsmultiplastelas.fragments.DetalheItemFragment
+import br.com.veronezitecnologia.fragmentsmultiplastelas.views.fragments.DetalheItemFragment
 import br.com.veronezitecnologia.fragmentsmultiplastelas.models.Item
 
 class DetalheItemActivity : AppCompatActivity() {

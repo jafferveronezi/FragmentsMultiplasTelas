@@ -5,7 +5,7 @@
     android:padding="16dp">
     <fragment
         android:id="@+id/fragment1"
-        android:name="br.com.veronezitecnologia.fragmentsmultiplastelas.fragments.ListaItensFragment"
+        android:name="br.com.veronezitecnologia.fragmentsmultiplastelas.views.fragments.ListaItensFragment"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"

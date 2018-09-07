@@ -1,4 +1,4 @@
-package br.com.veronezitecnologia.fragmentsmultiplastelas.fragments
+package br.com.veronezitecnologia.fragmentsmultiplastelas.views.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater

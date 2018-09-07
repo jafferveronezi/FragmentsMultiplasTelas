@@ -1,12 +1,11 @@
-package br.com.veronezitecnologia.fragmentsmultiplastelas.activities
+package br.com.veronezitecnologia.fragmentsmultiplastelas.views.activities
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v4.app.FragmentActivity
 import android.widget.FrameLayout
 import br.com.veronezitecnologia.fragmentsmultiplastelas.R
-import br.com.veronezitecnologia.fragmentsmultiplastelas.fragments.DetalheItemFragment
+import br.com.veronezitecnologia.fragmentsmultiplastelas.views.fragments.DetalheItemFragment
 import br.com.veronezitecnologia.fragmentsmultiplastelas.listeners.OnItemSelectedListener
 import br.com.veronezitecnologia.fragmentsmultiplastelas.models.Item
 

@@ -9,7 +9,7 @@
     android:showDividers="middle">
     <fragment
         android:id="@+id/fragmentItemsList"
-        android:name="br.com.veronezitecnologia.fragmentsmultiplastelas.fragments.ListaItensFragment"
+        android:name="br.com.veronezitecnologia.fragmentsmultiplastelas.views.fragments.ListaItensFragment"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
